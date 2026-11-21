@@ -1,0 +1,6 @@
+# Core predictor is stdlib-only. These are only needed for the API service.
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.6
+# Dev
+pytest>=8.0
